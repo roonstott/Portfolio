@@ -4,21 +4,28 @@ body {
 }
 .big-name h1 {
 font-size: 60px;
-font-weight: 200;
-padding: 5px;
 }
 
 .big-name p {
   padding-bottom: 15px;
+  font-size: 17px;
 }
 
-.big-name {
-  padding: 25px;
+.big-name .jumbotron{
+  background-color: rgba(222, 149, 61, 0.674);
+  padding: 12px;
+  padding-top: 25px;
+  border-style: solid;
+  border-color: rgb(185, 32, 47);
+  border-width: 3px;
+  margin: 5%;
+  margin-top: 10%;
 }
 
 .about img {
+  width: 75%;
+  margin: auto;
   display: block;
-  width: 250px;
 }
 
 .blocks h2 {
@@ -27,6 +34,7 @@ font-weight: 100;
 text-align: left;
 background-color: rgba(250, 206, 174, 0.886);
 box-sizing: border-box;
+padding: 10%;
 }
 
 .blocks {
@@ -37,22 +45,13 @@ box-sizing: border-box;
   border-style: solid;
   border-color: rgb(185, 32, 47);
   border-width: 3px;
-  background-color: rgb(216, 243, 213);
+  background-color: rgba(220, 251, 252, 0.972);
 }
 
-.jumbotron {
-  padding-block: inherit;
-  padding-top: 5%;
+.blocks .jumbotron {
   background-color: rgba(222, 149, 61, 0.674);
-}
-
-.about {
-  float: left;
-  width: 80%;
-  margin-left: 7%;
-}
-
-.about p {
-  float: right;
-  width: 30%;
+  height: auto;
+  padding-top: 5px;
+  padding-bottom: 45px;
+  box-sizing: border-box;
 }
