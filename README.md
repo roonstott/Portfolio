@@ -23,7 +23,7 @@ _This webpage is an introduction to me, Robert Onstott, and a preview of some of
 
 ## Known Bugs
 
-* _No known bugs_
+* _Changes may not appear in browser if you have navigated to the site in the past. You have clear the cache/history._
 
 ## License
 
