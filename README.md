@@ -18,12 +18,12 @@ _This webpage is an introduction to me, Robert Onstott, and a preview of some of
 
 * _Page must be read in a browser window_
 * _Copy the following URL into your browswer in order to see the page as hosted by GH pages:
-                    https://roonstott.github.io/Portfolio/ _
+                    https://roonstott.github.io/Portfolio/_
 * _If you won't want to use the link, clone the repository from github, and read the files locally from your own machine_
 
 ## Known Bugs
 
-* _Changes may not appear in browser if you have navigated to the site in the past. You have clear the cache/history._
+* _Changes may not appear in browser if you have navigated to the site in the past. You have to clear the cache/history._
 
 ## License
 
