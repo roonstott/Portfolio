@@ -77,3 +77,16 @@ font-size: 60px;
 .ooh {
   font-style:italic;
 }
+
+.contact h3 {
+  margin-top: 6%;
+  margin-bottom: 3%;
+}
+
+.contact img {
+  display: block;
+  width: 18%;
+  float: left;
+  margin: auto;
+  padding: 15px;
+}
